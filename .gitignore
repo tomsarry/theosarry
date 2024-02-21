@@ -1,0 +1,28 @@
+resources
+
+# Hugo default output directory
+public/
+
+node_modules/
+build/
+gen_/
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+# Linux
+.directory
+
+# Hugo
+.hugo_build.lock
+jsconfig.json
+
+# css map
+*.css.map
